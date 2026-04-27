@@ -10,4 +10,3 @@ A lightweight browser-based tool for composing LaTeX without memorizing syntax. 
 - **Search** — filters both palettes in real time, including command descriptions
 - **Plain text scratch pad** — a second text box for prose notes alongside your LaTeX output
 - **Copy button** — copies the full LaTeX output to your clipboard in one click
-- 
