@@ -1,16 +1,13 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# LaTeX Builder
+ 
+A lightweight browser-based tool for composing LaTeX without memorizing syntax. Browse a categorized palette of symbols and commands, click to insert them at your cursor, and copy the result directly into your LaTeX editor or document.
+ 
+## Features
+ 
+- **Symbol palette** — 120+ symbols across 10 groups: Greek letters, operators, relations, arrows, sets & logic, functions, accents, fonts, and more
+- **Command palette** — structured LaTeX commands organized by category: document structure, packages, theorem environments, math environments, lists, floats, and text formatting
+- **Click to insert** — every button inserts at your cursor position, not just appended to the end
+- **Search** — filters both palettes in real time, including command descriptions
+- **Plain text scratch pad** — a second text box for prose notes alongside your LaTeX output
+- **Copy button** — copies the full LaTeX output to your clipboard in one click
+- 
